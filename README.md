@@ -4,7 +4,7 @@
 - Marlen Andrez
 - Kelssy Pinel
 - Keyla 
--Joana Araujo
+- Joana Araujo
 - Ashley Mendoza
 
 **Seccion:** 4
